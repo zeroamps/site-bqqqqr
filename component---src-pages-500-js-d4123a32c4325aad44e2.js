@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbetlehem=self.webpackChunkbetlehem||[]).push([[372],{6232:function(e,t,n){n.r(t),n.d(t,{Head:function(){return l},default:function(){return u}});var r=n(7294);function u(){return r.createElement(r.Fragment,null,r.createElement("h1",{className:"my-12 text-center text-9xl"},"500"),r.createElement("p",{className:"my-12 text-center text-xl"},"Prepáčte ale stránka nefunguje."))}function l(){return r.createElement("title",null,"500 stránka nefunguje")}}}]);
+//# sourceMappingURL=component---src-pages-500-js-d4123a32c4325aad44e2.js.map
